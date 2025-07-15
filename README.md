@@ -45,39 +45,7 @@ git clone https://github.com/MBAHSINGO22/Diabetes_Data_Analysis.git
 cd Diabetes_Data_Analysis
 ```
 
-### 2. Pastikan Python Terinstal:
-
-Periksa versi Python:
-
-```bash
-python --version
-```
-
-Jika belum terinstal, unduh dari [python.org](https://www.python.org/).
-
-### 3. Instal Dependensi:
-
-Instal pustaka yang diperlukan dari `requirements.txt`:
-
-```bash
-pip install -r requirements.txt
-```
-
-**Isi requirements.txt:**
-```
-pandas
-jupyter
-```
-
-### 4. Jalankan Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
-Buka `coba.ipynb` di browser dan jalankan sel-sel untuk melakukan analisis.
-
-### 5. Jalankan Skrip Python:
+### 2. Jalankan Skrip Python:
 
 Pastikan file `diabetes_prediction_dataset.csv` berada di direktori yang sama dengan `Latihan1.py`, lalu jalankan:
 
@@ -90,8 +58,6 @@ python Latihan1.py
 ---
 
 ## 🟢 Catatan
-
-- Tidak ada dependensi eksternal selain Pandas dan Jupyter.  
 - Pastikan file `diabetes_prediction_dataset.csv` tersedia untuk kedua skrip.  
 - `coba.ipynb` menampilkan 10 data pertama dan terakhir, informasi dataset, dan pemeriksaan missing values.  
 - `Latihan1.py` menampilkan seluruh dataset dalam format teks.
