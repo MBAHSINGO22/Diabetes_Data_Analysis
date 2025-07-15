@@ -7,12 +7,11 @@ Eksplorasi dataset kesehatan menggunakan Pandas untuk analisis data awal
 
 ## 📖 Deskripsi Proyek
 
-**Diabetes_Data_Analysis** adalah proyek pembelajaran Python yang dirancang untuk melakukan analisis data awal (exploratory data analysis) pada *Diabetes Prediction Dataset*. Proyek ini berfokus pada:
+**Diabetes_Data_Analysis** adalah proyek pembelajaran Python yang dilakukan untuk melakukan analisis data awal (exploratory data analysis) pada *Diabetes Prediction Dataset*. Proyek ini berfokus pada:
 
 - 📊 Pemuatan dan penampilan data menggunakan Pandas  
 - 🔍 Inspeksi informasi dataset (tipe data, jumlah entri, nilai kosong)  
-- 🧹 Pemeriksaan kebersihan data (missing values)  
-- ⚙️ Penggunaan Jupyter Notebook dan skrip Python untuk analisis modular
+- 🧹 missing values
 
 Proyek ini terdiri dari sebuah Jupyter Notebook (`coba.ipynb`) untuk analisis interaktif dan sebuah skrip Python (`Latihan1.py`) untuk menampilkan dataset secara langsung. Cocok untuk pemula yang ingin mempelajari analisis data menggunakan Python. 🟢
 
@@ -33,8 +32,6 @@ Diabetes_Data_Analysis/
 ├── coba.ipynb                    # 📊 Notebook untuk analisis data diabetes
 ├── Latihan1.py                  # 📝 Skrip untuk menampilkan seluruh dataset
 ├── diabetes_prediction_dataset.csv  # 📈 Dataset prediksi diabetes
-├── README.md                    # 📖 Dokumentasi proyek
-├── requirements.txt             # ⚙️ Daftar dependensi Python
 ```
 
 ---
